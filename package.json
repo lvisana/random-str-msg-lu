@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-lu",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvisana/random-str-msg-lu.git"
+  },
+  "keywords": [],
+  "author": "Luisana Mora lsmm2705@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvisana/random-str-msg-lu/issues"
+  },
+  "homepage": "https://github.com/lvisana/random-str-msg-lu#readme",
+  "bin": {
+    "random-str-msg-lu": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
